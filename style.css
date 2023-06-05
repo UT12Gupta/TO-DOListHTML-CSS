@@ -36,6 +36,11 @@ header h1{
 	margin-bottom: 1rem;
 }
 
+header h1 img{
+   width: 30px;
+   margin-left: 10px;
+}
+
 #new-task-form {
 	display: flex;
 }
